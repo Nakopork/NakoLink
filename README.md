@@ -4,7 +4,7 @@ Soccer Guru Team Chemistry Builder
 
 Made by: Nakopork
 
-Download the nakolink.exe file and open it. Write the player name, nation, league, and club of each of your players. 
+Download the whole file and open the Nakolink.exe. Write the player name, nation, league, and club of each of your players. 
 After that hit calculate and it will tell you if your players are Green, Yellow, or Red, and at the end it will tell you if your team has perfect chemistry or not!
 
 See the info.png photo to see how it works, and I have also added the python code if others want to work further or to see that there is no virus in it.
