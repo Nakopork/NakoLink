@@ -17,5 +17,6 @@ See the info.png photo to see how it works.
 
 Another player_data.json folder will be created to store your players data, so when you close and open the program next time, you won't have to input all the names and data again. 
 
+![info](https://github.com/Nakopork/NakoLink/assets/143703230/8eb5a642-b75c-4cb3-a681-f6ac98d169a9)
 
 
