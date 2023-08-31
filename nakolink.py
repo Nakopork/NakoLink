@@ -68,7 +68,7 @@ def calculate_button_click():
     player_marks.append("")
 
     if (
-        green_players == 9
+        green_players >= 9
         or (green_players == 8 and yellow_players >= 2)
         or (green_players == 7 and yellow_players >= 3)
         or (green_players == 6 and yellow_players >= 4)
@@ -120,6 +120,7 @@ def save_data():
 # GUI setup
 window = tk.Tk()
 window.title("NakoLink")
+window.iconbitmap("nakolink.ico")
 
 num_players = 11
 players = []
